@@ -1,2 +1,3 @@
-# UW-Boot-Camp-HW2---Portfolio-First-Draft
-Initial draft for Personal Portfolio Page
+Initial draft for Personal Portfolio Page by Matt Szmytkowski
+
+![](./Assets/pagePreview.gif "Page Preview")
